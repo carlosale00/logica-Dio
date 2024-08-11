@@ -1,1 +1,1 @@
-# ligica-Dio
+# logica-Dio
